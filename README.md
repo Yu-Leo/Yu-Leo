@@ -8,6 +8,15 @@
 </p>
 
 
+### About me 👇
+
+👨‍🎓 **Student**
+
+💻 **Beginner Software Developer**
+
+❤️ **OpenSource** 
+
+<br>
 
 ### 🔧 Languages and Tools:
 
@@ -15,7 +24,9 @@
 ![python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=FFDF00)
 ![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
 
+<br>
 
 ### 🤝 Social media:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yu_leo)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/yuvenskylev)
+
