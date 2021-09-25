@@ -1,6 +1,4 @@
-<p align="center">
-  <img  src="https://readme-typing-svg.herokuapp.com?size=22&multiline=true&width=200&height=60&lines=Hey+%F0%9F%91%8B%2C+I'm+Lev!" />
-</p>
+<h1 align="center"> Hi, I'm Lev! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yu-leo&show_icons=true&theme=react&bg_color=0d1117&border_color=0A4398" />
@@ -8,7 +6,7 @@
 </p>
 
 
-### About me 👇
+### About me:
 
 👨‍🎓 **Student**
 
