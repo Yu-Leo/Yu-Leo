@@ -15,7 +15,7 @@
 <a href="#" target="_blank"> <img alt="linux" src="https://img.shields.io/badge/-os | linux-090909?style=for-the-badge&logo=linux"></a>
 <a href="#" target="_blank"> <img alt="windows" src="https://img.shields.io/badge/-os | windows-090909?style=for-the-badge&logo=windows"></a>
 
-## Social media:
+## Find me on:
 <a href="https://t.me/yu_leo" target="_blank"> <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
 <a href="https://vk.com/yuvenskylev" target="_blank"> <img alt="Telegram" src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3"></a>
 <a href="https://www.codewars.com/users/YuLeo" target="_blank"> <img alt="codewars" src="https://img.shields.io/badge/-codewars-090909?style=for-the-badge&logo=codewars&logoColor=b1361e"></a>
