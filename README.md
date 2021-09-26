@@ -3,14 +3,14 @@
 <h3 align="center"> A beginner Software Developer, ❤️open-source </h3>
 
 <p align="center">
-  <a href="https://github.com/yu-leo#js-contribution-activity" target="_blank" style="text-decoration: none"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=yu-leo&show_icons=true&theme=react&bg_color=0d1117&border_color=0A4398"/></a>
-  <a href="https://github.com/yu-leo#js-contribution-activity" target="_blank"><img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=yu-leo&theme=react&background=0d1117&border=1f6fea" /></a>
+  <a href="https://github.com/Yu-Leo#js-contribution-activity" target="_blank" style="text-decoration: none"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=yu-leo&show_icons=true&theme=react&bg_color=0d1117&border_color=0A4398"/></a>
+  <a href="https://github.com/Yu-Leo#js-contribution-activity" target="_blank"><img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=yu-leo&theme=react&background=0d1117&border=1f6fea" /></a>
 </p>
 
 
 ##  Languages and Tools:
-<a href="https://github.com/yu-leo?tab=repositories&language=python" target="_blank"> <img alt="python repos" src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=FFDF00"></a>
-<a href="https://github.com/yu-leo?tab=repositories&language=c%2B%2B" target="_blank"> <img alt="С++ repos" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a>
+<a href="https://github.com/Yu-Leo?tab=repositories&language=python" target="_blank"> <img alt="python repos" src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=FFDF00"></a>
+<a href="https://github.com/Yu-Leo?tab=repositories&language=c%2B%2B" target="_blank"> <img alt="С++ repos" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a>
 <a href="#" target="_blank"> <img alt="git" src="https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git"></a>
 <a href="#" target="_blank"> <img alt="linux" src="https://img.shields.io/badge/-os | linux-090909?style=for-the-badge&logo=linux"></a>
 <a href="#" target="_blank"> <img alt="windows" src="https://img.shields.io/badge/-os | windows-090909?style=for-the-badge&logo=windows"></a>
