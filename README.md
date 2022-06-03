@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Lev! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1 align="center"> Hi, I'm Lev! :wave: </h1>
 
 <h3 align="center"> A beginner Software Developer, ❤️open-source </h3>
 
