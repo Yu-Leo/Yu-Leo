@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Lev! :wave: </h1>
 
-<h3 align="center"> A beginner Software Developer, ❤️open-source </h3>
+<h3 align="center"> A beginner Software Developer, ❤️ open-source </h3>
 
 <p align="center">
   <a href="https://github.com/Yu-Leo#js-contribution-activity" target="_blank" style="text-decoration: none"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=yu-leo&show_icons=true&theme=react&bg_color=0d1117&border_color=0A4398"/></a>
