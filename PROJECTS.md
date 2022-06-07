@@ -1,6 +1,4 @@
-# Мои проекты :star:
-
-<br>
+<h1 align="center">  Мои проекты :star: </h1>
 
 ## :pencil: Public Notes - [репозиторий проекта](https://github.com/Yu-Leo/public-notes)
 ### май 2022 г. - н. в.
@@ -12,12 +10,11 @@
 - Python
 - Django
 - HTML, CSS
+<hr>
 
-<br>
-
-## :hand: Practice Pals Bot
+## :hand: Practice Pals Bot _(командный проект)_
 ### январь 2022 г. - март 2022 г.
-### :smile: Командный проект
+
 
 ### Краткое описание
 **Practice Pals Bot** ([@practice_pals_bot](https://t.me/practice_pals_bot)) - Telegram-бот
@@ -28,7 +25,7 @@
 - SQLAlchemy
 - PyTelegramBotAPI
 
-<br>
+<hr>
 
 ## :video_game: Snake game - [репозиторий проекта](https://github.com/Yu-Leo/snake-game)
 ### июнь 2021 г. - октябрь 2021 г.
@@ -40,11 +37,10 @@
 - С++
 - SFML
 
-<br>
+<hr>
 
-## :package: Electronic storehouse - [репозиторий проекта](https://github.com/W-A-L-L-3/electronic-storehouse)
+## :package: Electronic storehouse _(командный проект)_ - [репозиторий проекта](https://github.com/W-A-L-L-3/electronic-storehouse) 
 ### январь 2021 г. - март 2021 г.
-### :smile: Командный проект
 
 ### Краткое описание
 Проект для Московской Предпрофессиональной олимпиады школьников 2020-2021 уч. г.
@@ -54,7 +50,7 @@
 - Python
 - Tkinter
 
-<br>
+<hr>
 
 ## :computer: Numbers in computer - [репозиторий проекта](https://github.com/Yu-Leo/numbers-in-computer)
 ### январь 2021 г. - февраль 2021 г.
