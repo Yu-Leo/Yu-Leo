@@ -1,6 +1,7 @@
 <h1 align="center">  Мои проекты :star: </h1>
 
 <br>
+<hr>
 
 ## :pencil: Public Notes - [репозиторий проекта](https://github.com/Yu-Leo/public-notes)
 ### май 2022 г. - н. в.
@@ -12,6 +13,7 @@
 - Python
 - Django
 - HTML, CSS
+
 <hr>
 
 ## :hand: Practice Pals Bot _(командный проект)_
@@ -63,3 +65,5 @@
 ### Технологии, фреймворки и библиотеки
 - Python
 - Tkinter
+
+<hr>
