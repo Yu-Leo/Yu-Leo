@@ -1,5 +1,7 @@
 <h1 align="center">  Мои проекты :star: </h1>
 
+<br>
+
 ## :pencil: Public Notes - [репозиторий проекта](https://github.com/Yu-Leo/public-notes)
 ### май 2022 г. - н. в.
 
