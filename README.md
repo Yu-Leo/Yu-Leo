@@ -12,7 +12,7 @@
 <a href="#" target="_blank"> <img alt="django" src="https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=0aad48"></a>
 <a href="https://github.com/Yu-Leo?tab=repositories&language=c%2B%2B" target="_blank"> <img alt="С++ repos" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a>
 
-### Tools
+## Tools
 <a href="#" target="_blank"> <img alt="git" src="https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git"></a>
 <a href="#" target="_blank"> <img alt="github" src="https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github"></a>
 <a href="#" target="_blank"> <img alt="linux" src="https://img.shields.io/badge/-os | linux-090909?style=for-the-badge&logo=linux"></a>
