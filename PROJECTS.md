@@ -10,7 +10,7 @@ English | <a href="./PROJECTS_RU.md">Русский</a>
 ### May 2022 - now
 
 ### Short description
-Сайт, на котором пользователи могут оставлять публичные заметки.
+A website where users can write public notes.
 
 ### Technologies, frameworks and libraries
 - Python
@@ -23,12 +23,11 @@ English | <a href="./PROJECTS_RU.md">Русский</a>
 ### January 2022 - March 2022
 
 ### Short description
-**Practice Pals Bot** ([@practice_pals_bot](https://t.me/practice_pals_bot)) - Telegram-бот сервиса [Practice Pals](https://t.me/practicepals), главная цель которого - помочь каждому найти себе друзей по интересам.
+**Practice Pals Bot** ([@practice_pals_bot](https://t.me/practice_pals_bot)) - Telegram-bot of the [Practice Pals](https://t.me/practicepals) service, the main goal of which is to help everyone find friends of their interests in IT.
 
 ### My contribution
-- Реализация интерфейса Telegram-бота
-- Управление проектом. Постановка целей и задач, контроль их выполнения
-
+- Implementation of the Telegram bot interface
+- Project management. Setting goals, monitoring their implementation
 
 ### Technologies, frameworks and libraries
 - Python
@@ -41,7 +40,7 @@ English | <a href="./PROJECTS_RU.md">Русский</a>
 ### June 2021 - October 2021
 
 ### Short description
-Десктопное приложение с GUI. Классическая игра "Змейка".
+Desktop application with GUI. The classic game "Snake".
 
 ### Technologies, frameworks and libraries
 - С++
@@ -53,12 +52,13 @@ English | <a href="./PROJECTS_RU.md">Русский</a>
 ### January 2021 - March 2021
 
 ### Short description
-Проект для Московской Предпрофессиональной олимпиады школьников 2020-2021 уч. г.
-Десктопное приложение с GUI - информационный сервис, моделирующий взаимодействие пользователей (операторов) с автоматизированным складом.
+Project for Moscow Pre-Professional Olympiad of Schoolchildren 2020-2021 years.
+
+Desktop application with GUI. Аn information service that simulates the interaction of users (operators) with an automated storehouse.
 
 ### My contribution
-- Реализация интерфейса приложения и бизнес-логики
-- Управление проектом. Постановка целей и задач, контроль их выполнения
+- Implementation of the application interface and business logic
+- Project management. Setting goals, monitoring their implementation
 
 ### Technologies, frameworks and libraries
 - Python
@@ -70,7 +70,7 @@ English | <a href="./PROJECTS_RU.md">Русский</a>
 ### January 2021 - February 2021
 
 ### Short description
-Десктопное приложение с GUI для получения компьютерного представления чисел.
+A desktop application with a GUI for obtaining a computer representation of numbers.
 
 ### Technologies, frameworks and libraries
 - Python
