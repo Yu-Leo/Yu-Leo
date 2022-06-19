@@ -1,8 +1,8 @@
 <h1 align="center">Мои проекты :star:</h1>
 
-<p align="center">
+<h4 align="center">
 <a href="./PROJECTS.md">English</a> | Русский
-</p>
+</h4>
 
 <hr>
 
