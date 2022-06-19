@@ -1,8 +1,8 @@
 <h1 align="center">My projects :star:</h1>
 
-<h4 align="center">
+<p align="center">
 English | <a href="./PROJECTS_RU.md">Русский</a>
-</h4>
+</p>
 
 <hr>
 
@@ -10,7 +10,7 @@ English | <a href="./PROJECTS_RU.md">Русский</a>
 ### May 2022 - now
 
 ### Short description
-The website where users can write public notes.
+A website where users can write public notes.
 
 ### Technologies, frameworks and libraries
 - Python
@@ -54,7 +54,7 @@ Desktop application with GUI. The classic game "Snake".
 ### Short description
 Project for Moscow Pre-Professional Olympiad of Schoolchildren 2020-2021 years.
 
-Desktop application with GUI. The information service that simulates the interaction of users (operators) with an automated storehouse.
+Desktop application with GUI. An information service that simulates the interaction of users (operators) with an automated storehouse.
 
 ### My contribution
 - Implementation of the application interface and business logic
