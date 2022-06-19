@@ -10,7 +10,7 @@ English | <a href="./PROJECTS_RU.md">Русский</a>
 ### May 2022 - now
 
 ### Short description
-A website where users can write public notes.
+The website where users can write public notes.
 
 ### Technologies, frameworks and libraries
 - Python
@@ -54,7 +54,7 @@ Desktop application with GUI. The classic game "Snake".
 ### Short description
 Project for Moscow Pre-Professional Olympiad of Schoolchildren 2020-2021 years.
 
-Desktop application with GUI. Аn information service that simulates the interaction of users (operators) with an automated storehouse.
+Desktop application with GUI. The information service that simulates the interaction of users (operators) with an automated storehouse.
 
 ### My contribution
 - Implementation of the application interface and business logic
@@ -70,7 +70,7 @@ Desktop application with GUI. Аn information service that simulates the interac
 ### January 2021 - February 2021
 
 ### Short description
-A desktop application with a GUI for obtaining a computer representation of numbers.
+Desktop application with a GUI for obtaining a computer representation of numbers.
 
 ### Technologies, frameworks and libraries
 - Python
