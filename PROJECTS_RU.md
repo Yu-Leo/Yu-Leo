@@ -1,5 +1,9 @@
 <h1 align="center">Мои проекты :star:</h1>
 
+<p align="center">
+<a href="./PROJECTS.md">English</a> | Русский
+</p>
+
 <hr>
 
 ## :pencil: Public Notes - [репозиторий проекта](https://github.com/Yu-Leo/public-notes)
