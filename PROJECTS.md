@@ -1,74 +1,78 @@
-<h1 align="center">Мои проекты :star:</h1>
+<h1 align="center">My projects :star:</h1>
+
+<p align="center">
+English | <a href="./PROJECTS_RU.md">Русский</a>
+</p>
 
 <hr>
 
-## :pencil: Public Notes - [репозиторий проекта](https://github.com/Yu-Leo/public-notes)
-### май 2022 г. - н. в.
+## :pencil: Public Notes - [project repository](https://github.com/Yu-Leo/public-notes)
+### May 2022 - now
 
-### Краткое описание
-Сайт, на котором пользователи могут оставлять публичные заметки.
+### Short description
+A website where users can write public notes.
 
-### Технологии, фреймворки и библиотеки
+### Technologies, frameworks and libraries
 - Python
 - Django
 - HTML, CSS
 
 <hr>
 
-## :hand: Practice Pals Bot _(командный проект)_
-### январь 2022 г. - март 2022 г.
+## :hand: Practice Pals Bot _(team project)_
+### January 2022 - March 2022
 
-### Краткое описание
-**Practice Pals Bot** ([@practice_pals_bot](https://t.me/practice_pals_bot)) - Telegram-бот сервиса [Practice Pals](https://t.me/practicepals), главная цель которого - помочь каждому найти себе друзей по интересам.
+### Short description
+**Practice Pals Bot** ([@practice_pals_bot](https://t.me/practice_pals_bot)) - Telegram-bot of the [Practice Pals](https://t.me/practicepals) service, the main goal of which is to help everyone find friends of their interests in IT.
 
-### Мой вклад
-- Реализация интерфейса Telegram-бота
-- Управление проектом. Постановка целей и задач, контроль их выполнения
+### My contribution
+- Implementation of the Telegram bot interface
+- Project management. Setting goals, monitoring their implementation
 
-
-### Технологии, фреймворки и библиотеки
+### Technologies, frameworks and libraries
 - Python
 - SQLAlchemy
 - PyTelegramBotAPI
 
 <hr>
 
-## :video_game: Snake game - [репозиторий проекта](https://github.com/Yu-Leo/snake-game)
-### июнь 2021 г. - октябрь 2021 г.
+## :video_game: Snake game - [project repository](https://github.com/Yu-Leo/snake-game)
+### June 2021 - October 2021
 
-### Краткое описание
-Десктопное приложение с GUI. Классическая игра "Змейка".
+### Short description
+Desktop application with GUI. The classic game "Snake".
 
-### Технологии, фреймворки и библиотеки
+### Technologies, frameworks and libraries
 - С++
 - SFML
 
 <hr>
 
-## :package: Electronic storehouse _(командный проект)_ - [репозиторий проекта](https://github.com/W-A-L-L-3/electronic-storehouse) 
-### январь 2021 г. - март 2021 г.
+## :package: Electronic storehouse _(team project)_ - [project repository](https://github.com/W-A-L-L-3/electronic-storehouse) 
+### January 2021 - March 2021
 
-### Краткое описание
-Проект для Московской Предпрофессиональной олимпиады школьников 2020-2021 уч. г.
-Десктопное приложение с GUI - информационный сервис, моделирующий взаимодействие пользователей (операторов) с автоматизированным складом.
+### Short description
+Project for Moscow Pre-Professional Olympiad of Schoolchildren 2020-2021 years.
 
-### Мой вклад
-- Реализация интерфейса приложения и бизнес-логики
-- Управление проектом. Постановка целей и задач, контроль их выполнения
+Desktop application with GUI. Аn information service that simulates the interaction of users (operators) with an automated storehouse.
 
-### Технологии, фреймворки и библиотеки
+### My contribution
+- Implementation of the application interface and business logic
+- Project management. Setting goals, monitoring their implementation
+
+### Technologies, frameworks and libraries
 - Python
 - Tkinter
 
 <hr>
 
-## :computer: Numbers in computer - [репозиторий проекта](https://github.com/Yu-Leo/numbers-in-computer)
-### январь 2021 г. - февраль 2021 г.
+## :computer: Numbers in computer - [project repository](https://github.com/Yu-Leo/numbers-in-computer)
+### January 2021 - February 2021
 
-### Краткое описание
-Десктопное приложение с GUI для получения компьютерного представления чисел.
+### Short description
+A desktop application with a GUI for obtaining a computer representation of numbers.
 
-### Технологии, фреймворки и библиотеки
+### Technologies, frameworks and libraries
 - Python
 - Tkinter
 
