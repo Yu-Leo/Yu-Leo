@@ -8,9 +8,9 @@
 </p>
 
 ## Technology stack
-<a href="https://github.com/Yu-Leo?tab=repositories&language=python" target="_blank"> <img alt="python repos" src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=FFDF00"></a>
+<a href="https://github.com/Yu-Leo?tab=repositories&language=python" target="_blank"> <img alt="python" src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=FFDF00"></a>
 <a href="#" target="_blank"> <img alt="django" src="https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=0aad48"></a>
-<a href="https://github.com/Yu-Leo?tab=repositories&language=c%2B%2B" target="_blank"> <img alt="С++ repos" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a>
+<a href="https://github.com/Yu-Leo?tab=repositories&language=c%2B%2B" target="_blank"> <img alt="c++" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a>
 
 ## Tools
 <a href="#" target="_blank"> <img alt="git" src="https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git"></a>
@@ -27,7 +27,7 @@
 ##  Contact me:
 <a href="https://t.me/yu_leo" target="_blank"> <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
 <a href="https://vk.com/yuvenskylev" target="_blank"> <img alt="VK" src="https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3"></a>
-<a href="mailto:levayu22@gmail.com" target="_blank"> <img alt="gmail" src="https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:levayu22@gmail.com" target="_blank"> <img alt="Gmail" src="https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail"></a>
 
 
 <h2 align="center"> Check out my <a href="./PROJECTS.md">Projects :star:</a> or Repos 👇 </h2>
