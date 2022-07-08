@@ -16,8 +16,8 @@
 <a href="#" target="_blank"> <img alt="git" src="https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git"></a>
 <a href="#" target="_blank"> <img alt="github" src="https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github"></a>
 <a href="#" target="_blank"> <img alt="docker" src="https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker"></a>
-<a href="#" target="_blank"> <img alt="linux" src="https://img.shields.io/badge/-os | linux-090909?style=for-the-badge&logo=linux"></a>
-<a href="#" target="_blank"> <img alt="windows" src="https://img.shields.io/badge/-os | windows-090909?style=for-the-badge&logo=windows"></a>
+<a href="#" target="_blank"> <img alt="linux" src="https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux"></a>
+<a href="#" target="_blank"> <img alt="windows" src="https://img.shields.io/badge/-windows-090909?style=for-the-badge&logo=windows"></a>
 
 ## Find me on:
 
