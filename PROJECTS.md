@@ -17,6 +17,28 @@ A website where users can write public notes.
 - Django
 - HTML, CSS
 
+### Tools
+- Docker and Docker compose
+
+<hr>
+
+## :moneybag: Currency Converter - [project repository](https://github.com/Yu-Leo/currency-converter)
+### July 2022
+
+### Short description
+Simple currency converter website.
+
+### Technologies, frameworks and libraries
+- Python
+- Django
+- HTML, CSS
+
+### DBMS
+- Redis
+
+### Tools
+- Docker and Docker compose
+
 <hr>
 
 ## :hand: Practice Pals Bot _(team project)_
