@@ -17,6 +17,28 @@
 - Django
 - HTML, CSS
 
+### Инструменты
+- Docker and Docker compose
+
+<hr>
+
+## :moneybag: Currency Converter - [репозиторий проекта](https://github.com/Yu-Leo/currency-converter)
+### июль 2022 г.
+
+### Краткое описание
+Простой сайт - конвертер валют
+
+### Технологии, фреймворки и библиотеки
+- Python
+- Django
+- HTML, CSS
+
+### СУБД
+- Redis
+
+### Инструменты
+- Docker и Docker compose
+
 <hr>
 
 ## :hand: Practice Pals Bot _(командный проект)_
