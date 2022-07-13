@@ -49,7 +49,7 @@ Simple currency converter website.
 
 ### My contribution
 - Implementation of the Telegram bot interface
-- Project management. Setting goals, monitoring their implementation
+- Project management. Setting tasks, monitoring their implementation
 
 ### Technologies, frameworks and libraries
 - Python
@@ -80,7 +80,7 @@ Desktop application with GUI. An information service that simulates the interact
 
 ### My contribution
 - Implementation of the application interface and business logic
-- Project management. Setting goals, monitoring their implementation
+- Project management. Setting tasks, monitoring their implementation
 
 ### Technologies, frameworks and libraries
 - Python
