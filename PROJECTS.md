@@ -17,6 +17,9 @@ A website where users can write public notes.
 - Django
 - HTML, CSS
 
+### DBMS
+- PostgreSQL
+
 ### Tools
 - Docker and Docker compose
 
