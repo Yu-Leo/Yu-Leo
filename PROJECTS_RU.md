@@ -17,6 +17,9 @@
 - Django
 - HTML, CSS
 
+### СУБД
+- PostgreSQL
+
 ### Инструменты
 - Docker and Docker compose
 
