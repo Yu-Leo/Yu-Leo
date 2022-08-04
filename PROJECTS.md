@@ -7,7 +7,7 @@ English | <a href="./PROJECTS_RU.md">Русский</a>
 <hr>
 
 ## :pencil: Public Notes - [project repository](https://github.com/Yu-Leo/public-notes)
-### May 2022 - now
+### May 2022 - July 2022
 
 ### Short description
 A website where users can write public notes.
