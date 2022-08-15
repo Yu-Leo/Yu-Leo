@@ -10,6 +10,8 @@
 ## Technology stack
 <a href="https://github.com/Yu-Leo?tab=repositories&language=python" target="_blank"> <img alt="python" src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=FFDF00"></a>
 <a href="#" target="_blank"> <img alt="django" src="https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=0aad48"></a>
+<a href="#" target="_blank"> <img alt="fastapi" src="https://img.shields.io/badge/-fastapi-090909?style=for-the-badge&logo=fastapi"></a>
+
 <a href="https://github.com/Yu-Leo?tab=repositories&language=c%2B%2B" target="_blank"> <img alt="c++" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a>
 
 ## Tools
