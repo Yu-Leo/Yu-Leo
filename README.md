@@ -22,6 +22,7 @@
 <a href="#" target="_blank"> <img alt="windows" src="https://img.shields.io/badge/-windows-090909?style=for-the-badge&logo=windows"></a>
 
 ## Find me on
+<a href="https://gitlab.com/Yu-Leo" target="_blank"> <img alt="gitlab" src="https://img.shields.io/badge/-gitlab-090909?style=for-the-badge&logo=gitlab"></a>
 <a href="https://www.codewars.com/users/YuLeo" target="_blank"> <img alt="codewars" src="https://img.shields.io/badge/-codewars-090909?style=for-the-badge&logo=codewars&logoColor=b1361e"></a>
 <a href="http://codeforces.com/profile/YuLeo" target="_blank"> <img alt="codeforces" src="https://img.shields.io/badge/-codeforces-090909?style=for-the-badge&logo=codeforces&logoColor=fbc848"></a>
 <a href="https://stepik.org/users/80507666" target="_blank"> <img alt="stepik" src="https://img.shields.io/badge/-stepik-090909?style=for-the-badge"></a>
