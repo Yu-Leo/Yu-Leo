@@ -6,6 +6,23 @@ English | <a href="./PROJECTS_RU.md">Русский</a>
 
 <hr>
 
+## :email: Avito.tech's task for backend trainee (2020 year) - [project repository](https://github.com/Yu-Leo/avito-tech-backend-trainee-2020)
+### January 2023
+
+### Short description
+A chat server that provides an HTTP API for working with user chats and messages.
+
+### Technologies, frameworks and libraries
+- Go
+
+### DBMS
+- PostgreSQL
+
+### Tools
+- Docker and Docker compose
+
+<hr>
+
 ## :pencil: Public Notes - [project repository](https://github.com/Yu-Leo/public-notes)
 ### May 2022 - July 2022
 
@@ -84,18 +101,6 @@ Desktop application with GUI. An information service that simulates the interact
 ### My contribution
 - Implementation of the application interface and business logic
 - Project management. Setting tasks, monitoring their implementation
-
-### Technologies, frameworks and libraries
-- Python
-- Tkinter
-
-<hr>
-
-## :computer: Numbers in computer - [project repository](https://github.com/Yu-Leo/numbers-in-computer)
-### January 2021 - February 2021
-
-### Short description
-Desktop application with a GUI for obtaining a computer representation of numbers.
 
 ### Technologies, frameworks and libraries
 - Python
