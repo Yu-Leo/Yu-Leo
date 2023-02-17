@@ -34,7 +34,7 @@
 
 ##  Contact me
 <a href="https://t.me/yu_leo" target="_blank"> <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
-<a href="https://vk.com/yuvenskylev" target="_blank"> <img alt="VK" src="https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=Vk&logoColor=ffffff"></a>
+<a href="https://vk.com/yuvenskiylev" target="_blank"> <img alt="VK" src="https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=Vk&logoColor=ffffff"></a>
 <a href="mailto:levayu22@gmail.com" target="_blank"> <img alt="Gmail" src="https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail"></a>
 <a href="mailto:yuvenskylev@yandex.ru" target="_blank"> <img alt="yandex" src="https://img.shields.io/badge/-mail.yandex-090909?style=for-the-badge&logo=data:image/svg+xml;utf8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDI0IDI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwb2x5Z29uIGZpbGw9IiNERjI1MUYiIHBvaW50cz0iMTEuODE3IDEzLjAxNyA3Ljk4MyAyLjI1IDUuMzY3IDIuMjUgMTAuNTcgMTYuMjE0IDEwLjU3IDI0IDEyLjk3NSAyNCAxMi45NzUgMTYuMzAzIDE4LjYzMyAwIDE2LjIyOCAwIDExLjgxNyAxMy4wMTciLz48cG9seWdvbiBmaWxsPSIjQzIyMDFCIiBwb2ludHM9IjcuOTgzIDIuMjUgNS4zNjcgMi4yNSAxMC41NyAxNi4yMTQgMTAuNTcgMjQgMTEuODMyIDI0IDExLjgzMiAxMi45NzIgMTEuODE3IDEzLjAxNyA3Ljk4MyAyLjI1Ii8+PC9zdmc+"></a>
 
