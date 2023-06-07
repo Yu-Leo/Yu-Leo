@@ -23,7 +23,7 @@
 <a href="#" target="_blank"> <img alt="git" src="https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git"></a>
 <a href="#" target="_blank"> <img alt="docker" src="https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker"></a>
 <a href="#" target="_blank"> <img alt="linux" src="https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux"></a>
-<a href="#" target="_blank"> <img alt="jetbrains ide" src="https://img.shields.io/badge/-jetbrains ide-090909?style=for-the-badge&logo=jetbrains&logoColor=FF8B73"></a>
+<a href="#" target="_blank"> <img alt="neovim" src="https://img.shields.io/badge/-neovim-090909?style=for-the-badge&logo=neovim"></a>
 
 ## Find me on
 <a href="https://gitlab.com/Yu-Leo" target="_blank"> <img alt="gitlab" src="https://img.shields.io/badge/-gitlab-090909?style=for-the-badge&logo=gitlab"></a>
