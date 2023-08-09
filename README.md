@@ -7,6 +7,8 @@
  - 👯 I'm looking to collaborate on Full-stack web applications
  - 📫 See **[Contact me](#contact-me)** section
 
+<a href="./gpg-personal-old.gpg" target="_blank"> <img alt="" src="https://img.shields.io/badge/gpg%20personal%20%28old%29-D206DC52D1498AAA-blue?style=for-the-badge&labelColor=090909"></a>
+<a href="./gpg-personal.gpg" target="_blank"> <img alt="" src="https://img.shields.io/badge/gpg%20personal-91E4DDCE2AD6A7D8-blue?style=for-the-badge&labelColor=090909"></a>
 
 ## Technology stack
 <a href="https://github.com/Yu-Leo?tab=repositories&language=python" target="_blank"> <img alt="python" src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=FFDF00"></a>
