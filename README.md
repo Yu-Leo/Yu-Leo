@@ -4,8 +4,8 @@
  - 👨‍💻 Go developer at **VK**
  - 👨‍🏫 Mentor of the "Backend on Go" course at **[BASHNYA](https://t.me/bashnya_education)**
 
-<a href="./gpg-personal-old.gpg" target="_blank"> <img alt="" src="https://img.shields.io/badge/gpg%20personal%20%28old%29-D206DC52D1498AAA-blue?style=for-the-badge&labelColor=090909"></a>
-<a href="./gpg-personal.gpg" target="_blank"> <img alt="" src="https://img.shields.io/badge/gpg%20personal-91E4DDCE2AD6A7D8-blue?style=for-the-badge&labelColor=090909"></a>
+<a href="./gpg-personal-old.gpg" target="_blank"> <img alt="" src="https://img.shields.io/badge/gpg%20personal%20%28old%29-D206DC52D1498AAA-blue?style=flat-square&labelColor=090909"></a>
+<a href="./gpg-personal.gpg" target="_blank"> <img alt="" src="https://img.shields.io/badge/gpg%20personal-91E4DDCE2AD6A7D8-blue?style=flat-square&labelColor=090909"></a>
 
 ## Technology stack
 
