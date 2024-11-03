@@ -45,4 +45,4 @@
 
 ###### Click on the badges
 
-<h2 align="center"> Check out my <a href="./PROJECTS.md">Projects :star:</a> or Repos 👇 </h2>
+<h2 align="center"> Check out my Repos 👇 </h2>
