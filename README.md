@@ -19,6 +19,12 @@
 
 <a href="#" target="_blank"> <img alt="postgresql" src="https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=ffffff"></a>
 
+<a href="#" target="_blank"> <img alt="html" src="https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html5"></a>
+<a href="#" target="_blank"> <img alt="css" src="https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3"></a>
+<a href="#" target="_blank"> <img alt="js" src="https://img.shields.io/badge/-js-090909?style=for-the-badge&logo=javascript"></a>
+<a href="#" target="_blank"> <img alt="ts" src="https://img.shields.io/badge/-ts-090909?style=for-the-badge&logo=typescript"></a>
+<a href="#" target="_blank"> <img alt="react" src="https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react"></a>
+
 ## Tools
 <a href="#" target="_blank"> <img alt="git" src="https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git"></a>
 <a href="#" target="_blank"> <img alt="docker" src="https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker"></a>
@@ -40,8 +46,8 @@
 
 ##  Contact me
 <a href="https://t.me/yu_leo" target="_blank"> <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
+<a href="mailto:yuvenskiylev@mail.ru" target="_blank"> <img alt="Mail" src="https://img.shields.io/badge/-mail.ru-090909?style=for-the-badge&logo=data:image/svg+xml;utf8;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZD0ibTIwLjQ0LDE1YzAsMi40OSAtMi4wMiw0LjUxIC00LjUxLDQuNTFjLTIuNDksMCAtNC41MSwtMi4wMiAtNC41MSwtNC41MWMwLC0yLjQ5IDIuMDIsLTQuNTEgNC41MSwtNC41MWMyLjQ5LDAgNC41MSwyLjAyIDQuNTEsNC41MXptLTQuNTEsLTE1Yy04LjI3LDAgLTE1LDYuNzMgLTE1LDE1YzAsOC4yNyA2LjczLDE1IDE1LDE1YzMuMDMsMCA1Ljk1LC0wLjkgOC40NSwtMi42MWwwLjA0LC0wLjAzbC0yLjAyLC0yLjM1bC0wLjAzLDAuMDJjLTEuOTMsMS4yNCAtNC4xNSwxLjkgLTYuNDQsMS45Yy02LjU4LDAgLTExLjkzLC01LjM1IC0xMS45MywtMTEuOTNjMCwtNi41OCA1LjM1LC0xMS45MyAxMS45MywtMTEuOTNjNi41NywwLjAxIDExLjkyLDUuMzUgMTEuOTIsMTEuOTNjMCwwLjg1IC0wLjA5LDEuNzEgLTAuMjgsMi41NmMtMC4zNywxLjU1IC0xLjQ2LDIuMDMgLTIuMjcsMS45NmMtMC44MiwtMC4wNiAtMS43OCwtMC42NSAtMS43OCwtMi4wN2wwLC0xLjA5bDAsLTEuMzZjMCwtNC4xOCAtMy40MSwtNy41OSAtNy41OSwtNy41OWMtNC4xOSwwIC03LjU5LDMuNDEgLTcuNTksNy41OWMwLDQuMTggMy40LDcuNTkgNy41OSw3LjU5YzIuMDMsMCAzLjk0LC0wLjggNS4zNywtMi4yNGMwLjg0LDEuMyAyLjIsMi4xMSAzLjc1LDIuMjRjMC4xMywwLjAxIDAuMjcsMC4wMSAwLjQxLDAuMDFjMS4wOSwwIDIuMTcsLTAuMzYgMy4wNCwtMS4wMmMwLjksLTAuNjkgMS41NywtMS42NyAxLjk0LC0yLjg2YzAuMDYsLTAuMTkgMC4xNywtMC42MyAwLjE3LC0wLjYzbDAsLTAuMDJjMC4yMiwtMC45NSAwLjMyLC0xLjkgMC4zMiwtMy4wN2MwLC04LjI3IC02LjczLC0xNSAtMTUsLTE1IiBmaWxsPSIjMDA3N0ZGIiBpZD0ic3ZnXzUiLz4KPC9zdmc+"></a>
 <a href="mailto:levayu22@gmail.com" target="_blank"> <img alt="Gmail" src="https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail"></a>
-<a href="mailto:yuvenskiylev@yandex.ru" target="_blank"> <img alt="Yandex" src="https://img.shields.io/badge/-mail.yandex-090909?style=for-the-badge&logo=data:image/svg+xml;utf8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDI0IDI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwb2x5Z29uIGZpbGw9IiNERjI1MUYiIHBvaW50cz0iMTEuODE3IDEzLjAxNyA3Ljk4MyAyLjI1IDUuMzY3IDIuMjUgMTAuNTcgMTYuMjE0IDEwLjU3IDI0IDEyLjk3NSAyNCAxMi45NzUgMTYuMzAzIDE4LjYzMyAwIDE2LjIyOCAwIDExLjgxNyAxMy4wMTciLz48cG9seWdvbiBmaWxsPSIjQzIyMDFCIiBwb2ludHM9IjcuOTgzIDIuMjUgNS4zNjcgMi4yNSAxMC41NyAxNi4yMTQgMTAuNTcgMjQgMTEuODMyIDI0IDExLjgzMiAxMi45NzIgMTEuODE3IDEzLjAxNyA3Ljk4MyAyLjI1Ii8+PC9zdmc+"></a>
 
 ###### Click on the badges
 
