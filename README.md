@@ -3,6 +3,7 @@
  - 👨‍💻 Go developer at **Avito** | ex. VK
  - 👨‍🎓 **Bauman Moscow State Technical University** student
  - 👨‍🏫 Ex. mentor of the "Backend on Go" course at **[BASHNYA](https://t.me/bashnya_education)**
+ - ❤️ **Neovim**
 
 <a href="./gpg-personal.gpg" target="_blank"> <img alt="" src="https://img.shields.io/badge/gpg%20personal-4C642CF56CE16EE5-blue?style=flat-square&labelColor=090909"></a>
 <a href="./gpg-personal-old.gpg" target="_blank"> <img alt="" src="https://img.shields.io/badge/gpg%20personal%20%28old%29-91E4DDCE2AD6A7D8-blue?style=flat-square&labelColor=090909"></a>
@@ -24,6 +25,9 @@
 <a href="#" target="_blank"> <img alt="js" src="https://img.shields.io/badge/-js-090909?style=for-the-badge&logo=javascript"></a>
 <a href="#" target="_blank"> <img alt="ts" src="https://img.shields.io/badge/-ts-090909?style=for-the-badge&logo=typescript"></a>
 <a href="#" target="_blank"> <img alt="react" src="https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react"></a>
+
+<a href="#" target="_blank"> <img alt="lua" src="https://img.shields.io/badge/-lua-090909?style=for-the-badge&logo=lua"></a>
+
 
 ## Tools
 <a href="#" target="_blank"> <img alt="git" src="https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git"></a>
