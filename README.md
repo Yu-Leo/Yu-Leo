@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Lev! :wave: </h1>
  
- - ⚙️ Software Engineer
+ - ⚙️ **Software Engineer**
  - 😎 Tech Geek
  - 👨‍💻 Ex-Avito, ex-VK Go developer
  - 👨‍🎓 **Bauman Moscow State Technical University | IU5** graduate student
@@ -28,7 +28,6 @@
 <a href="#" target="_blank"> <img alt="lua" src="https://img.shields.io/badge/-lua-090909?style=for-the-badge&logo=lua"></a>
 
 ## DevOps
-<a href="#" target="_blank"> <img alt="linux" src="https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux"></a>
 <a href="#" target="_blank"> <img alt="gitlab CI/CD" src="https://img.shields.io/badge/-gitlab_ci/cd-090909?style=for-the-badge&logo=gitlab"></a>
 <a href="#" target="_blank"> <img alt="github actions" src="https://img.shields.io/badge/-github_actions-090909?style=for-the-badge&logo=githubactions"></a>
 <a href="#" target="_blank"> <img alt="docker" src="https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker"></a>
@@ -38,6 +37,7 @@
 <a href="#" target="_blank"> <img alt="ansible" src="https://img.shields.io/badge/-ansible-090909?style=for-the-badge&logo=ansible"></a>
 
 ## Tools
+<a href="#" target="_blank"> <img alt="linux" src="https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux"></a>
 <a href="#" target="_blank"> <img alt="git" src="https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git"></a>
 <a href="#" target="_blank"> <img alt="neovim" src="https://img.shields.io/badge/-neovim-090909?style=for-the-badge&logo=neovim"></a>
 
