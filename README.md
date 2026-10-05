@@ -1,12 +1,11 @@
 <h1 align="center"> Hi, I'm Lev! :wave: </h1>
  
- - 👨‍💻 Go developer at **Avito** | ex. VK
- - 👨‍🎓 **Bauman Moscow State Technical University** student
- - 👨‍🏫 Ex. mentor of the "Backend on Go" course at **[BASHNYA](https://t.me/bashnya_education)**
+ - ⚙️ Software Engineer
+ - 😎 Tech Geek
+ - 👨‍💻 Ex-Avito, ex-VK Go developer
+ - 👨‍🎓 **Bauman Moscow State Technical University | IU5** graduate student
+ - 👨‍🏫 Ex-mentor of the "Backend on Go" course at **[BASHNYA](https://t.me/bashnya_education)**
  - ❤️ **Neovim**
-
-<a href="./gpg-personal.gpg" target="_blank"> <img alt="" src="https://img.shields.io/badge/gpg%20personal-4C642CF56CE16EE5-blue?style=flat-square&labelColor=090909"></a>
-<a href="./gpg-personal-old.gpg" target="_blank"> <img alt="" src="https://img.shields.io/badge/gpg%20personal%20%28old%29-91E4DDCE2AD6A7D8-blue?style=flat-square&labelColor=090909"></a>
 
 ## Technology stack
 
@@ -21,20 +20,25 @@
 <a href="#" target="_blank"> <img alt="postgresql" src="https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=ffffff"></a>
 
 <a href="#" target="_blank"> <img alt="html" src="https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html5"></a>
-<a href="#" target="_blank"> <img alt="css" src="https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3"></a>
+<a href="#" target="_blank"> <img alt="css" src="https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css"></a>
 <a href="#" target="_blank"> <img alt="js" src="https://img.shields.io/badge/-js-090909?style=for-the-badge&logo=javascript"></a>
 <a href="#" target="_blank"> <img alt="ts" src="https://img.shields.io/badge/-ts-090909?style=for-the-badge&logo=typescript"></a>
 <a href="#" target="_blank"> <img alt="react" src="https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react"></a>
 
 <a href="#" target="_blank"> <img alt="lua" src="https://img.shields.io/badge/-lua-090909?style=for-the-badge&logo=lua"></a>
 
-
-## Tools
-<a href="#" target="_blank"> <img alt="git" src="https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git"></a>
-<a href="#" target="_blank"> <img alt="docker" src="https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker"></a>
+## DevOps
 <a href="#" target="_blank"> <img alt="linux" src="https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux"></a>
 <a href="#" target="_blank"> <img alt="gitlab CI/CD" src="https://img.shields.io/badge/-gitlab_ci/cd-090909?style=for-the-badge&logo=gitlab"></a>
 <a href="#" target="_blank"> <img alt="github actions" src="https://img.shields.io/badge/-github_actions-090909?style=for-the-badge&logo=githubactions"></a>
+<a href="#" target="_blank"> <img alt="docker" src="https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker"></a>
+<a href="#" target="_blank"> <img alt="k8s" src="https://img.shields.io/badge/-k8s-090909?style=for-the-badge&logo=kubernetes"></a>
+<a href="#" target="_blank"> <img alt="helm" src="https://img.shields.io/badge/-helm-090909?style=for-the-badge&logo=helm"></a>
+<a href="#" target="_blank"> <img alt="argocd" src="https://img.shields.io/badge/-argocd-090909?style=for-the-badge&logo=argo"></a>
+<a href="#" target="_blank"> <img alt="ansible" src="https://img.shields.io/badge/-ansible-090909?style=for-the-badge&logo=ansible"></a>
+
+## Tools
+<a href="#" target="_blank"> <img alt="git" src="https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git"></a>
 <a href="#" target="_blank"> <img alt="neovim" src="https://img.shields.io/badge/-neovim-090909?style=for-the-badge&logo=neovim"></a>
 
 ## Find me on
@@ -45,7 +49,7 @@
 
 ## Social media
 <a href="https://habr.com/ru/users/Yu-Leo/" target="_blank"> <img alt="habr" src="https://img.shields.io/badge/-habr-090909?style=for-the-badge&logo=habr"></a>
-<a href="https://yu-leo.github.io/yu0dev/" target="_blank"> <img alt="My Blog" src="https://img.shields.io/badge/-my_blog-090909?style=for-the-badge&logo=data:image/svg%2bxml;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAACMuAAAjLgAAAAAAAAAAAAD///8A////AP///wD///8A////AA5/8RILffRaDH7zgAx+84ILgPReDHnzFf///wD///8A////AP///wD///8A////AP///wD///8A////AAuA9GAMfvTpDH7z8wx+8/MMfvPzDH7z8wx+9OwLfvRzAAD/Af///wD///8A////AP///wD///8A////AA2A9U4MfvPzDH7z8wx+8/MMfvPzDH7z8wx+8/MMfvPzDH7z8wx9827///8A////AP///wD///8A////AP///wAMfvPGDH7z8wx+8/MMfvOsDIDzKg5/+CQMfvOUDH7z8wx+8/MLffPkAGb/Bf///wD///8A////AP///wAAbdsHDH7z8wx+8/MMfvPzDH/zFv///wD///8AAGb/BQt98+YMfvPzDH7z8w188if///8A////AP///wD///8AEYj/Dwx+8/MMfvPzDH7z8////wD///8A////AP///wAMfvTVDH7z8wx+8/MLgPQu////AP///wD///8A////ABGI/w8MfvPzDH7z8wx+8/P///8ADH3zlwt99LX///8ADH701Qx+8/MMfvPzC4D0Lv///wD///8A////AP///wARiP8PDH7z8wx+8/MMfvPz////AAt+9MoMfvTs////AAx+9NUMfvPzDH7z8wuA9C7///8A////AP///wD///8AEYj/Dwx+8/MMfvPzDH7z8////wALfvTJDH706////wAMfvTVDH7z8wx+8/MLgPQu////AP///wD///8A////ABGI/w8MfvPzDH7z8wx+8/P///8ADX7yZQx983z///8ADH701Qx+8/MMfvPzC4D0Lv///wD///8A////AP///wARiP8PDH7z8wx+8/MMfvPzAAD/Af///wD///8A////AAx+9NUMfvPzDH7z8wuA9C7///8A////AP///wD///8AAG3bBwx+8/MMfvPzDH7z8wp69Rn///8A////AABt2wcLfvPnDH7z8wx+8/MNf/Im////AP///wD///8A////AP///wAMfvTCDH7z8wx+8/MLfvS2DX3yPQ599jcLf/ShDH7z8wx+8/MLfvTgAH//BP///wD///8A////AP///wD///8AC370Qwx+8/IMfvPzDH7z8wx+8/MMfvPzDH7z8wx+8/MMfvPzCn71Y////wD///8A////AP///wD///8A////AP///wANgPVOC3703wx+8/MMfvPzDH7z8wx+8/MMfvTqDH7zbQAA/wH///8A////AP///wD///8A////AP///wD///8A////AABx4wkLfvFHDH3zbAx9824NgPVOEYj/D////wD///8A////AP///wD///8A+B8AAPAHAADgBwAA4AMAAMGDAADDwwAAwkMAAMJDAADCQwAAwkMAAMHDAADBgwAA4AMAAOAHAADwBwAA+B8AAA=="></a>
+<a href="https://yu-leo.github.io/yu0dev/" target="_blank"> <img alt="My Blog" src="https://img.shields.io/badge/-my_blog-090909?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAEKADAAQAAAABAAAAEAAAAAA0VXHyAAABsUlEQVQ4EX1Tvy8EQRR%2Bb45g7Z6ciEhUEq5T6TUkROFf0BBR4KLRYPcIEZ0fjUKpJdGIUiQ6/4BcoSAIIXe3d34c87w5ZrK79u4VO%2B/73ve%2B3Xkzi0QE0bhdwJak0zooCPu4JkQCb6zmhnNYfMlHtRg1KGeT4yTlNgF2BMUI8MavWrNX/T0INIUMSq49xI3H3Mj6%2BBAgM1a2dKCrQie/K7q8VpsR6IIIxxIkhhHpSOv4BcvgYYPG5gtyc9jUlbKfdUF8ybS1XrpX%2BLfWesPetsKEOOB4hWuVmy/o7U41K0KHtVF%2B0HnvDn0g4IvGAqXRGgNdNCsPqugmp/wVZ8lwMUltAxbzwCYRYT6mz1B1DVilBlrzRJSLmaYC0eBTuOLTeIryQVzXwF4tzgTFcbnZQu7u9T0o8D2n0%2BBpbOSZpjSWX%2BJD5%2BYeKMJ3nUte%2Bv%2BKZzzFlUYSnxWSGeYmqjxR3n4s9cA%2BVRQObUEI3JSSDqtCgBGQMFLhRzhwSzcr3mxBAcstnKCgWR57WeFgMMeXiTx7zd8N8YEfy/AFr609Ib9H%2BcqmmRRsmuO7eGpvFP%2BdyA8G5Jf5xU/e8AAAAABJRU5ErkJggg=="></a>
 <a href="https://t.me/yu0dev" target="_blank"> <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
 
 ##  Contact me
